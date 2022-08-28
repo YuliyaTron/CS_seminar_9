@@ -1,0 +1,15 @@
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\bin\Debug\net6.0\urok_9_Task_64.exe
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\bin\Debug\net6.0\urok_9_Task_64.deps.json
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\bin\Debug\net6.0\urok_9_Task_64.runtimeconfig.json
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\bin\Debug\net6.0\urok_9_Task_64.dll
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\bin\Debug\net6.0\urok_9_Task_64.pdb
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\obj\Debug\net6.0\urok_9_Task_64.csproj.AssemblyReference.cache
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\obj\Debug\net6.0\urok_9_Task_64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\obj\Debug\net6.0\urok_9_Task_64.AssemblyInfoInputs.cache
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\obj\Debug\net6.0\urok_9_Task_64.AssemblyInfo.cs
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\obj\Debug\net6.0\urok_9_Task_64.csproj.CoreCompileInputs.cache
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\obj\Debug\net6.0\urok_9_Task_64.dll
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\obj\Debug\net6.0\refint\urok_9_Task_64.dll
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\obj\Debug\net6.0\urok_9_Task_64.pdb
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\obj\Debug\net6.0\urok_9_Task_64.genruntimeconfig.cache
+C:\Users\TRON\Desktop\CS_seminar_9\urok_9_Task_64\obj\Debug\net6.0\ref\urok_9_Task_64.dll
